@@ -1,0 +1,16 @@
+/** @const */
+chrome.cast;
+
+
+/** @const */
+chrome.cast.media;
+
+
+/**
+ * @type {string}
+ */
+chrome.cast.media.DEFAULT_MEDIA_RECEIVER_APP_ID;
+
+
+/** @typedef {function(): void} */
+chrome.cast.ReceiverActionListener;
